@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ConfirmStaff</name>
+   <tag></tag>
+   <elementGuidId>f8d5723f-b8e5-4f57-bf1c-f0a9db2a901f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'block' and (text() = 'Confirm' or . = 'Confirm')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.q-card.q-dialog-plugin > div.q-card__actions.justify-end.q-card__actions--horiz.row > button.q-btn.q-btn-item.non-selectable.no-outline.q-btn--outline.q-btn--rectangle.text-red.q-btn--actionable.q-focusable.q-hoverable > span.q-btn__content.text-center.col.items-center.q-anchor--skip.justify-center.row > span.block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'q-card--flat ')]//span[contains(@class, 'block') and text()='Confirm']&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e1e2acb5-7842-4fdf-821e-46fa4ca27c94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block</value>
+      <webElementGuid>7846c15f-a932-423b-bd03-5ce5dac1a41d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirm</value>
+      <webElementGuid>982accaa-21ff-41c1-a3b1-492c0e591fb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-portal--dialog--6&quot;)/div[@class=&quot;q-dialog fullscreen no-pointer-events q-dialog--modal&quot;]/div[@class=&quot;q-dialog__inner flex no-pointer-events q-dialog__inner--minimized q-dialog__inner--standard fixed-full flex-center&quot;]/div[@class=&quot;q-card q-dialog-plugin&quot;]/div[@class=&quot;q-card__actions justify-end q-card__actions--horiz row&quot;]/button[@class=&quot;q-btn q-btn-item non-selectable no-outline q-btn--outline q-btn--rectangle text-red q-btn--actionable q-focusable q-hoverable&quot;]/span[@class=&quot;q-btn__content text-center col items-center q-anchor--skip justify-center row&quot;]/span[@class=&quot;block&quot;]</value>
+      <webElementGuid>9dc10c82-90ac-41de-ac3b-ee0fc61c3c6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q-portal--dialog--6']/div/div[2]/div/div[3]/button[2]/span[2]/span</value>
+      <webElementGuid>be0557dd-b670-477f-b6cf-6fc862729569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[3]</value>
+      <webElementGuid>879559e9-db7c-47fe-a5ca-1d815fb2e651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warning: this cannot be undone.'])[1]/following::span[6]</value>
+      <webElementGuid>572a7a89-65f0-417b-b9f3-b92883cf8461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]/span[2]/span</value>
+      <webElementGuid>24059e6a-93ec-4753-a53b-be361243da1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Confirm' or . = 'Confirm')]</value>
+      <webElementGuid>52afba28-cf5b-400f-a3ff-a9a0832a9b17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

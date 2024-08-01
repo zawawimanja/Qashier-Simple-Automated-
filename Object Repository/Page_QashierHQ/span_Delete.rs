@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Delete</name>
+   <tag></tag>
+   <elementGuidId>037a7a47-cbb2-4ee7-a656-b47c9b63637d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Delete' or . = 'Delete')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.q-btn.q-btn-item.non-selectable.no-outline.q-btn--outline.q-btn--rectangle.text-red.q-btn--actionable.q-focusable.q-hoverable > span.q-btn__content.text-center.col.items-center.q-anchor--skip.justify-center.row > span.block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='q-portal--dialog--5']/div/div[2]/div/form/div[2]/button/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a919dc8a-f7f7-42ad-a864-6ff713f17588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block</value>
+      <webElementGuid>a076fb2b-9368-4c2a-a43a-da6a77cdc87e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>ab533767-c32d-4308-866b-f98d29aa2e0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-portal--dialog--5&quot;)/div[@class=&quot;q-dialog fullscreen no-pointer-events q-dialog--modal&quot;]/div[@class=&quot;q-dialog__inner flex no-pointer-events q-dialog__inner--minimized q-dialog__inner--standard fixed-full flex-center&quot;]/div[@class=&quot;q-card q-card--flat no-shadow&quot;]/form[@class=&quot;q-form&quot;]/div[@class=&quot;q-card__actions justify-end q-card__actions--horiz row q-ma-sm&quot;]/button[@class=&quot;q-btn q-btn-item non-selectable no-outline q-btn--outline q-btn--rectangle text-red q-btn--actionable q-focusable q-hoverable&quot;]/span[@class=&quot;q-btn__content text-center col items-center q-anchor--skip justify-center row&quot;]/span[@class=&quot;block&quot;]</value>
+      <webElementGuid>cbf758d8-1254-47cc-b721-115d01ac23cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q-portal--dialog--5']/div/div[2]/div/form/div[2]/button/span[2]/span</value>
+      <webElementGuid>bab2ac88-f8b5-4ae8-8e8e-468465a52f2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Staff Display Order'])[1]/following::span[3]</value>
+      <webElementGuid>64097efb-47e3-487f-8772-098771437cb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Staff PIN'])[1]/following::span[3]</value>
+      <webElementGuid>dca33adb-ef80-4696-91c6-ec0ffcee36ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/preceding::span[2]</value>
+      <webElementGuid>43d89411-5adc-4a9b-8fe6-508f27e53642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete']/parent::*</value>
+      <webElementGuid>f0875276-faef-45c3-a40f-1a8c79d4b8de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/button/span[2]/span</value>
+      <webElementGuid>b1bb4101-2e6d-43a6-af19-2d785ef0c20e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Delete' or . = 'Delete')]</value>
+      <webElementGuid>53b487e7-5b63-4468-be1c-17476b36460c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
